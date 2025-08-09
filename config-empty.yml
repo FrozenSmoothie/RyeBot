@@ -1,0 +1,8 @@
+﻿discord:
+    token: ''
+    registerCommands: 'false'
+    testServerId: ''
+rscript:
+    pathToExecutable: ''
+python:
+    pathToExecutable: ''

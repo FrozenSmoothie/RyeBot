@@ -1,0 +1,8 @@
+﻿discord:
+    token: 'MTQwMzgwMjkwNTk0NDc4OTAwMw.GdIJQo.r031pH1PybCskeRdwlrudormSdNvVd87I4BwCM'
+    registerCommands: 'true'
+    testServerId: '1399901153726304398'
+rscript:
+    pathToExecutable: 'C:\Program Files\R\R-4.3.2\bin\Rscript.exe'
+python:
+    pathToExecutable: 'C:\Users\froze\AppData\Local\Programs\Python\Python312\python.exe'
